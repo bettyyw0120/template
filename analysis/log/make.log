@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-11-01 15:10:34
+Makelog started: 2023-11-07 03:04:08
 Working directory: /Users/betty/Desktop/template/analysis
 --------------------------------------------------------------------------------
 Input links successfully created!
@@ -10,9 +10,12 @@ Executing command: `python  "/Users/betty/Desktop/template/analysis/code/analyze
 /Users/betty/anaconda3/envs/template/lib/python3.12/site-packages/linearmodels/panel/model.py:1214: MissingValueWarning: 
 Inputs contain missing values. Dropping rows with missing observations.
   super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
+/Users/betty/anaconda3/envs/template/lib/python3.12/site-packages/linearmodels/panel/model.py:1214: MissingValueWarning: 
+Inputs contain missing values. Dropping rows with missing observations.
+  super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-11-01 15:10:44
+Makelog ended: 2023-11-07 03:04:16
 Working directory: /Users/betty/Desktop/template/analysis
 --------------------------------------------------------------------------------
