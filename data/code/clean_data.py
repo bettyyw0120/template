@@ -16,7 +16,7 @@ def plot_data(df):
     plt.hist(df['chips_sold'])
     plt.savefig('output/chips_sold.pdf')
 """
-def to_percent(y, position):
+def to_percent(y):
     s = "{:.0f}%".format(y)
     return s
 
